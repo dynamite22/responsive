@@ -9,6 +9,7 @@ A use experience is going to differ a lot on a mobile than desktop, so we need t
 Also designs should be planned for mobile design first and adapt them to a large screen because mobile screens are much more smaller so it helps us priortize the nesscary stuffs and it also makes our job much easier.
 
 ##isues faced
+
 none, the video was explanatory
 
 ![Screenshot 2025-03-30 190208](https://github.com/user-attachments/assets/0fb56ba3-8346-45f3-b294-cd3c4246945a)
